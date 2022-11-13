@@ -1,4 +1,5 @@
 # DockerGettingStarted
+https://github.com/JoonaKleemol/DockerGettingStarted
 
 To get started run following commands in (for example) Powershell. Note the <fileserver-name> parameter for running the applications (examples below)
 
