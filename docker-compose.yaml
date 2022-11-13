@@ -1,0 +1,22 @@
+version : '3.7'
+services: 
+  
+  server:
+    image: serverapp 
+    build:
+      dockerfile : Server\Dockerfile 
+    ports:
+      - "3500:80"
+    volumes:
+      - servervol:/serverdata
+
+  client:
+    image: clientapp
+    build:
+      dockerfile : Client/Dockerfile
+    volumes:
+      - clientvol:/clientdata
+ 
+volumes:
+  servervol:
+  clientvol:

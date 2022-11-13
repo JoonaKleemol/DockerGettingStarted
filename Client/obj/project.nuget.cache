@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yl1t7w1BZKDlfpvUnPCT9+S+pQXEIur4HEEjGsDgm1jueevzW0Jh3KyKnah8WmWULJIh/8pLvVLHs1Bl9iz9fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joona\\Documents\\Koulu\\Docker\\Tehtava1\\DockerApp\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joona\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\joona\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
