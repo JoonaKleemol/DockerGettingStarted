@@ -1,5 +1,8 @@
 # DockerGettingStarted
 
+To get started run following commands in (for example) Powershell. Note the <fileserver-name> parameter for running the applications (examples below)
+
+
 Build the images with 
 
 ```properties
